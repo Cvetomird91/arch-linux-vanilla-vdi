@@ -6,5 +6,5 @@ all those steps each time.
 
 root password: 1234567
 
-# Download link from pClouy
+# Download link from pCloud
 https://my.pcloud.com/publink/show?code=XZB9NXZlcIfCBHgY1fd45mdlihz2FqGyOP7
